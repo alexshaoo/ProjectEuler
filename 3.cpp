@@ -20,5 +20,5 @@ int main() {
 	    else d++;
 	}
 	
-	cout << num << endl;
+	cout << num << "\n";
 }
